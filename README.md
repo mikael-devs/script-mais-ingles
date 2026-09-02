@@ -53,7 +53,7 @@ Prefere não instalar nada? A equipe faz as atividades por você: [https://mikae
 
 **Plural e Mais Inglês são a mesma coisa?** O Plural é o portal por onde você entra; o Mais Inglês é o programa de inglês lá dentro. O script atua no módulo de inglês.
 
-**Funciona no celular?** Não — o Tampermonkey precisa de navegador de computador.
+**Funciona no celular?** No Android, sim — desde que o navegador aceite extensões, como o **Microsoft Edge** ou o **Firefox**. O Chrome de Android não aceita extensão, então nele não roda. No **iPhone/iOS não funciona**: o iOS não permite extensão de userscript em navegador nenhum — nesse caso use a opção "a gente faz por você".
 
 **Preciso passar minha senha?** Não para o script: ele roda na aba que você já abriu logada.
 
@@ -66,9 +66,9 @@ script Mais Inglês · script Plataforma Plural · script Plural · bot Mais Ing
 ## Outros estados
 
 - [Sala do Futuro / CMSP — São Paulo](https://mikael.store/script-sala-do-futuro)
-- [GoEnglish — Goiás](https://github.com/mikaeldevs7/Script-GoEnglish-Efekta-Speak)
+- [GoEnglish — Goiás](https://mikael.store/scripts/goEnglish)
 - [Inglês Paraná High — Paraná](https://mikael.store/parana)
 
 ---
 
-© Mikael Dev · https://mikael.store
+© Mikael Dev · [mikael.store](https://mikael.store) · [Todos os scripts, por plataforma](https://mikael-devs.github.io/)
